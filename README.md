@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mubarak 👋</h1>
-<h3 align="center">Data Analyst · Python · SQL · R · Power BI · Public Health Data</h3>
+<h3 align="center">Data Analyst · AI Developer · Python · SQL · R · Power BI · Public Health Data</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mubarak-adedeji-776804273">
@@ -17,11 +17,11 @@
 
 ## About Me
 
-I am a data analyst with 3 years of experience working across public health, government, and commercial environments. I build things that work — data pipelines, dashboards, ML models, and analytical frameworks that teams actually use to make decisions.
+I am a data analyst and AI developer with 3 years of experience working across public health, government, and commercial environments. I build things that work — data pipelines, dashboards, ML models, and AI applications that teams actually use to make decisions.
 
 My most substantial work has been in public health data across Kaduna State, Nigeria, where I built SQL data warehouses, designed ODK survey instruments for field data collection across 14 local government areas, and rebuilt Power BI dashboards now used in active government health planning.
 
-I am currently finishing a B.Sc. Mathematics at the Air Force Institute of Technology, Kaduna — graduating June 2026.
+I am currently finishing a B.Sc. Mathematics at the Air Force Institute of Technology, Kaduna — graduating June 2026. Open to remote opportunities globally.
 
 ---
 
@@ -29,9 +29,11 @@ I am currently finishing a B.Sc. Mathematics at the Air Force Institute of Techn
 
 | Project | Description | Stack | Demo |
 |---|---|---|---|
-| **Diabetes Risk Predictor** | End-to-end ML pipeline predicting diabetes risk from clinical measurements | Python, Scikit-learn, Streamlit | [Live App](https://diabetesriskapp.streamlit.app) |
-| **Clinical NLP Validator** | LLM extraction validator for unstructured medical records — 97.7% accuracy, 0 hallucinations | Python, Groq API, Streamlit | [Live App](https://llm-output-validator.streamlit.app) |
-| **Healthcare A/B Testing Framework** | Complete A/B testing framework simulating an RCT across 768 patients | Python, SciPy, Statsmodels | [GitHub](https://github.com/Mubydeji/healthcare-ab-testing) |
+| **Diabetes Risk Predictor** | End-to-end ML pipeline predicting diabetes risk from clinical measurements with threshold optimisation | Python, Scikit-learn, Streamlit | [Live App](https://diabetesriskapp.streamlit.app) |
+| **Clinical NLP Validator** | LLM extraction validator for unstructured medical records — 97.7% accuracy, 0 hallucinations across 220 fields | Python, Groq API, Streamlit | [Live App](https://llm-output-validator.streamlit.app) |
+| **Heart Disease Risk Predictor** | ML classification app predicting heart disease risk from 13 clinical measurements | Python, Scikit-learn, Streamlit | [Live App](https://dsfp5app.streamlit.app) |
+| **Nftify — RAG QA System** | Domain-specific AI assistant grounded in a curated NFTI knowledge base — eliminates LLM hallucination on specialised queries | Python, ChromaDB, Gemini, Streamlit | [Live App](https://nftifybot.streamlit.app) |
+| **Healthcare A/B Testing Framework** | Complete RCT simulation across 768 patients — hypothesis testing, power analysis, effect size, confidence intervals | Python, SciPy, Statsmodels | [GitHub](https://github.com/Mubydeji/healthcare-ab-testing) |
 
 ---
 
@@ -43,11 +45,17 @@ I am currently finishing a B.Sc. Mathematics at the Air Force Institute of Techn
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+**AI & Machine Learning**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20DB-purple)
+![Groq](https://img.shields.io/badge/Groq-LLM%20API-orange)
+![Gemini](https://img.shields.io/badge/Gemini-2.5%20Flash-blue)
+
 **Data & Analytics**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 **Tools & Platforms**
@@ -66,7 +74,7 @@ I am currently finishing a B.Sc. Mathematics at the Air Force Institute of Techn
 - Designed a 60-variable ODK survey instrument for a maternal health study across 14 LGAs — zero entry errors
 - Rebuilt a Power BI facility readiness dashboard now used in active state-level government planning
 
-**Bilsun Textile — Data Analyst**
+**Bilsun Textile — Lead Data Analyst**
 - Managed 1,000+ monthly transaction records across 5 product lines
 - Built automated Power BI and Excel reporting suite — reduced manual reporting time by 30%
 - Applied demand modelling across 18 months of sales data to cut overstock by 15%
