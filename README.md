@@ -27,13 +27,15 @@ Portfolio: [mubydeji.github.io](https://mubydeji.github.io). Open to remote and 
 
 ## Projects
 
-| Project | Description | Stack | Demo |
+| Project | What it does | Stack | Link |
 |---|---|---|---|
-| **Diabetes Risk Predictor** | End-to-end ML pipeline predicting diabetes risk from clinical measurements with threshold optimisation | Python, Scikit-learn, Streamlit | [Live App](https://diabetesriskapp.streamlit.app) |
-| **Clinical NLP Validator** | LLM extraction validator for unstructured medical records , 97.7% accuracy, 0 hallucinations across 220 fields | Python, Groq API, Streamlit | [Live App](https://llm-output-validator.streamlit.app) |
-| **Heart Disease Risk Predictor** | ML classification app predicting heart disease risk from 13 clinical measurements | Python, Scikit-learn, Streamlit | [Live App](https://dsfp5app.streamlit.app) |
-| **Nftify , RAG QA System** | Domain-specific AI assistant grounded in a curated NFTI knowledge base , eliminates LLM hallucination on specialised queries | Python, ChromaDB, Gemini, Streamlit | [Live App](https://nftifybot.streamlit.app) |
-| **Healthcare A/B Testing Framework** | Complete RCT simulation across 768 patients , hypothesis testing, power analysis, effect size, confidence intervals | Python, SciPy, Statsmodels | [GitHub](https://github.com/Mubydeji/healthcare-ab-testing) |
+| **Chest X-Ray Pneumonia Classifier** | Compares ResNet-50 and EfficientNet-B0 on 5,856 images. Splits by patient to stop data leakage and tunes the threshold for sensitivity. | PyTorch, FastAPI, Docker | [Live app](https://pneumonia-classifier-app.onrender.com) · [Code](https://github.com/Mubydeji/pneumonia-classifier) |
+| **Clinical NLP Validator** | Scores a language model's extraction of 11 fields from clinical notes: 97.7% mean accuracy and 0 hallucinations across 220 fields (measured on the earlier model). | Python, Groq API, Streamlit | [Live app](https://llm-output-validator.streamlit.app) · [Code](https://github.com/Mubydeji/llm-output-validator) |
+| **BBC News Classification** | Compares TF-IDF, Word2Vec, fine-tuned DistilBERT and zero-shot Llama on one split. The simplest method won (98.8%). | scikit-learn, PyTorch, Groq | [Code](https://github.com/Mubydeji/bbc-news-classifier) |
+| **Diabetes Risk Predictor** | Predicts diabetes risk from clinical measurements and moves the threshold from 0.50 to 0.26, cutting missed cases from 27 to 6 of 54. | scikit-learn, Streamlit | [Live app](https://diabetesriskapp.streamlit.app) · [Code](https://github.com/Mubydeji/diabetes-risk-prediction) |
+| **Nftify** | Answers questions about Click-On Kaduna and NFTI from a document set, with the sources shown. | ChromaDB, Gemini, Streamlit | [Live app](https://nftifybot.streamlit.app) · [Code](https://github.com/Mubydeji/nftify-rag) |
+| **Heart Disease Risk Predictor** | Predicts heart disease risk from 13 clinical measurements. | scikit-learn, Streamlit | [Live app](https://dsfp5app.streamlit.app) · [Code](https://github.com/Mubydeji/heart-disease-uci-) |
+| **Healthcare A/B Testing Framework** | Hypothesis tests, power analysis and effect sizes on a simulated trial of 768 patients. | SciPy, Statsmodels | [Code](https://github.com/Mubydeji/healthcare-ab-testing) |
 
 ---
 
