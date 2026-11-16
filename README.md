@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mubarak 👋</h1>
-<h3 align="center">Data Analyst · AI Developer · Python · SQL · R · Power BI · Public Health Data</h3>
+<h3 align="center">Data Analyst · Health data, data pipelines and machine learning · Kaduna, Nigeria</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mubarak-adedeji-776804273">
@@ -15,29 +15,29 @@
 
 ---
 
-## About Me
+## About me
 
-I am a data analyst and AI developer with 3 years of experience working across public health, government, and commercial environments. I build things that work — data pipelines, dashboards, ML models, and AI applications that teams actually use to make decisions.
+I am a data analyst at Natview Foundation for Technology Innovation in Kaduna, Nigeria. I work on health data programmes funded by the World Bank and the Gates Foundation. Part of the job happens in clinics, where I check facility registers against what was reported. The rest is SQL, Python and ODK Central, and I keep the Natview cloud database that holds the data.
 
-My most substantial work has been in public health data across Kaduna State, Nigeria, where I built SQL data warehouses, designed ODK survey instruments for field data collection across 14 local government areas, and rebuilt Power BI dashboards now used in active government health planning.
+I hold a B.Sc. in Mathematics from the Air Force Institute of Technology, Kaduna. I was a top 3 graduating fellow (of 45) at the Click-On Kaduna Data Science Fellowship, and I now co-teach the next cohort.
 
-I am currently finishing a B.Sc. Mathematics at the Air Force Institute of Technology, Kaduna — graduating June 2026. Open to remote opportunities globally.
+Portfolio: [mubydeji.github.io](https://mubydeji.github.io). Open to remote and hybrid roles.
 
 ---
 
-## 🚀 Live Projects
+## Projects
 
 | Project | Description | Stack | Demo |
 |---|---|---|---|
 | **Diabetes Risk Predictor** | End-to-end ML pipeline predicting diabetes risk from clinical measurements with threshold optimisation | Python, Scikit-learn, Streamlit | [Live App](https://diabetesriskapp.streamlit.app) |
-| **Clinical NLP Validator** | LLM extraction validator for unstructured medical records — 97.7% accuracy, 0 hallucinations across 220 fields | Python, Groq API, Streamlit | [Live App](https://llm-output-validator.streamlit.app) |
+| **Clinical NLP Validator** | LLM extraction validator for unstructured medical records , 97.7% accuracy, 0 hallucinations across 220 fields | Python, Groq API, Streamlit | [Live App](https://llm-output-validator.streamlit.app) |
 | **Heart Disease Risk Predictor** | ML classification app predicting heart disease risk from 13 clinical measurements | Python, Scikit-learn, Streamlit | [Live App](https://dsfp5app.streamlit.app) |
-| **Nftify — RAG QA System** | Domain-specific AI assistant grounded in a curated NFTI knowledge base — eliminates LLM hallucination on specialised queries | Python, ChromaDB, Gemini, Streamlit | [Live App](https://nftifybot.streamlit.app) |
-| **Healthcare A/B Testing Framework** | Complete RCT simulation across 768 patients — hypothesis testing, power analysis, effect size, confidence intervals | Python, SciPy, Statsmodels | [GitHub](https://github.com/Mubydeji/healthcare-ab-testing) |
+| **Nftify , RAG QA System** | Domain-specific AI assistant grounded in a curated NFTI knowledge base , eliminates LLM hallucination on specialised queries | Python, ChromaDB, Gemini, Streamlit | [Live App](https://nftifybot.streamlit.app) |
+| **Healthcare A/B Testing Framework** | Complete RCT simulation across 768 patients , hypothesis testing, power analysis, effect size, confidence intervals | Python, SciPy, Statsmodels | [GitHub](https://github.com/Mubydeji/healthcare-ab-testing) |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech stack
 
 **Languages**
 
@@ -67,21 +67,21 @@ I am currently finishing a B.Sc. Mathematics at the Air Force Institute of Techn
 
 ---
 
-## 📊 Featured Work
+## Work
 
-**Click-On Kaduna — Data Science Fellow**
-- Built a Bronze-Silver-Gold SQL data warehouse for longitudinal health data across 80+ PHC facilities in Kaduna State
-- Designed a 60-variable ODK survey instrument for a maternal health study across 14 LGAs — zero entry errors
-- Rebuilt a Power BI facility readiness dashboard now used in active state-level government planning
+**Natview Foundation for Technology Innovation, Data Analyst**
+- Supervise field data collection for Longitudinal Study 2.0 (Gates Foundation): 130+ facilities across 5 LGAs in Kaduna State
+- Build and run the ODK Central to cloud database pipeline for the study data
+- Write longitudinal facility monitoring reports for leadership
 
-**Bilsun Textile — Lead Data Analyst**
+**Bilsun Textile, Data Analyst**
 - Managed 1,000+ monthly transaction records across 5 product lines
-- Built automated Power BI and Excel reporting suite — reduced manual reporting time by 30%
-- Applied demand modelling across 18 months of sales data to cut overstock by 15%
+- Built Power BI and Excel reports that cut manual reporting time by 30%
+- Used 18 months of sales data to model demand and cut overstock by 15%
 
 ---
 
-## 📈 GitHub Stats
+## GitHub stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mubydeji&show_icons=true&theme=default&hide_border=true" width="48%" />
@@ -90,14 +90,14 @@ I am currently finishing a B.Sc. Mathematics at the Air Force Institute of Techn
 
 ---
 
-## 📫 Get In Touch
+## Contact
 
 - Email: adedejimubarakadesola@gmail.com
 - LinkedIn: [linkedin.com/in/mubarak-adedeji-776804273](https://linkedin.com/in/mubarak-adedeji-776804273)
-- Location: Kaduna, Nigeria — open to remote opportunities globally
+- Location: Kaduna, Nigeria. Open to remote opportunities.
 
 ---
 
 <p align="center">
-  <i>Open to remote data analyst, data science, and AI/ML roles globally.</i>
+  <i>Open to remote data analyst, data science and machine learning roles.</i>
 </p>
